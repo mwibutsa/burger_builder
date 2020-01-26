@@ -1,2 +1,2 @@
 # burger_builder
-Burger Ordering app
+Create and order your own custom burger!
